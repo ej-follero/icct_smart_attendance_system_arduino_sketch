@@ -24,5 +24,6 @@ Advanced Arduino sketch for **ICCT Smart Attendance System** using MFRC522 RFID 
 | Reg. LED | - | 6 |
 | Buzzer | - | 4 |
 
-## 🛠 **Required Libraries**
+## **Required Libraries**
 Install via **Arduino IDE > Library Manager**:
+
